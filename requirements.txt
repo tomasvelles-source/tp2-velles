@@ -1,0 +1,2 @@
+# Biblioteca estándar de Python 3.9+ (csv, json, re, datetime, unittest, argparse, pathlib, abc)
+# No se requieren dependencias externas obligatorias para ejecutar la aplicación ni las pruebas.
