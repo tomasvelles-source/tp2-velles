@@ -1,0 +1,522 @@
+[
+  {
+    "id_viaje": "ECO-1001",
+    "fecha_inicio": "2026-10-01 07:15:00",
+    "fecha_fin": "2026-10-01 07:32:00",
+    "estacion_origen": "001 - Retiro",
+    "estacion_destino": "073 - Obelisco",
+    "duracion_min": 17
+  },
+  {
+    "id_viaje": "ECO-1002",
+    "fecha_inicio": "2026-10-01 07:20:00",
+    "fecha_fin": "2026-10-01 07:41:00",
+    "estacion_origen": "061 - Constitución",
+    "estacion_destino": "030 - Aduana",
+    "duracion_min": 21
+  },
+  {
+    "id_viaje": "ECO-1003",
+    "fecha_inicio": "2026-10-01 07:45:00",
+    "fecha_fin": "2026-10-01 08:05:00",
+    "estacion_origen": "001 - Retiro",
+    "estacion_destino": "045 - Tribunales",
+    "duracion_min": 20
+  },
+  {
+    "id_viaje": "ECO-1004",
+    "fecha_inicio": "2026-10-01 08:10:00",
+    "fecha_fin": "2026-10-01 08:28:00",
+    "estacion_origen": "005 - Plaza Italia",
+    "estacion_destino": "022 - Facultad de Medicina",
+    "duracion_min": 18
+  },
+  {
+    "id_viaje": "ECO-1005",
+    "fecha_inicio": "2026-10-01 08:30:00",
+    "fecha_fin": "2026-10-01 08:52:00",
+    "estacion_origen": "014 - Pacífico",
+    "estacion_destino": "005 - Plaza Italia",
+    "duracion_min": 22
+  },
+  {
+    "id_viaje": "ECO-1006",
+    "fecha_inicio": "2026-10-01 09:00:00",
+    "fecha_fin": "2026-10-01 09:19:00",
+    "estacion_origen": "073 - Obelisco",
+    "estacion_destino": "008 - Congreso",
+    "duracion_min": 19
+  },
+  {
+    "id_viaje": "ECO-1007",
+    "fecha_inicio": "2026-10-01 09:25:00",
+    "fecha_fin": "2026-10-01 09:40:00",
+    "estacion_origen": "045 - Tribunales",
+    "estacion_destino": "022 - Facultad de Medicina",
+    "duracion_min": 15
+  },
+  {
+    "id_viaje": "ECO-1008",
+    "fecha_inicio": "2026-10-01 12:10:00",
+    "fecha_fin": "2026-10-01 12:34:00",
+    "estacion_origen": "022 - Facultad de Medicina",
+    "estacion_destino": "008 - Congreso",
+    "duracion_min": 24
+  },
+  {
+    "id_viaje": "ECO-1009",
+    "fecha_inicio": "2026-10-01 13:05:00",
+    "fecha_fin": "2026-10-01 13:22:00",
+    "estacion_origen": "030 - Aduana",
+    "estacion_destino": "073 - Obelisco",
+    "duracion_min": 17
+  },
+  {
+    "id_viaje": "ECO-1010",
+    "fecha_inicio": "2026-10-01 17:15:00",
+    "fecha_fin": "2026-10-01 17:38:00",
+    "estacion_origen": "073 - Obelisco",
+    "estacion_destino": "001 - Retiro",
+    "duracion_min": 23
+  },
+  {
+    "id_viaje": "ECO-1011",
+    "fecha_inicio": "2026-10-01 18:00:00",
+    "fecha_fin": "2026-10-01 18:25:00",
+    "estacion_origen": "008 - Congreso",
+    "estacion_destino": "061 - Constitución",
+    "duracion_min": 25
+  },
+  {
+    "id_viaje": "ECO-1012",
+    "fecha_inicio": "2026-10-01 18:40:00",
+    "fecha_fin": "2026-10-01 19:02:00",
+    "estacion_origen": "022 - Facultad de Medicina",
+    "estacion_destino": "005 - Plaza Italia",
+    "duracion_min": 22
+  },
+  {
+    "id_viaje": "ECO-1013",
+    "fecha_inicio": "2026-10-02 07:10:00",
+    "fecha_fin": "2026-10-02 07:29:00",
+    "estacion_origen": "001 - Retiro",
+    "estacion_destino": "073 - Obelisco",
+    "duracion_min": 19
+  },
+  {
+    "id_viaje": "ECO-1014",
+    "fecha_inicio": "2026-10-02 07:35:00",
+    "fecha_fin": "2026-10-02 07:54:00",
+    "estacion_origen": "001 - Retiro",
+    "estacion_destino": "030 - Aduana",
+    "duracion_min": 19
+  },
+  {
+    "id_viaje": "ECO-1015",
+    "fecha_inicio": "2026-10-02 08:00:00",
+    "fecha_fin": "2026-10-02 08:21:00",
+    "estacion_origen": "061 - Constitución",
+    "estacion_destino": "008 - Congreso",
+    "duracion_min": 21
+  },
+  {
+    "id_viaje": "ECO-1016",
+    "fecha_inicio": "2026-10-02 08:15:00",
+    "fecha_fin": "2026-10-02 08:33:00",
+    "estacion_origen": "005 - Plaza Italia",
+    "estacion_destino": "014 - Pacífico",
+    "duracion_min": 18
+  },
+  {
+    "id_viaje": "ECO-1017",
+    "fecha_inicio": "2026-10-02 08:45:00",
+    "fecha_fin": "2026-10-02 09:06:00",
+    "estacion_origen": "014 - Pacífico",
+    "estacion_destino": "022 - Facultad de Medicina",
+    "duracion_min": 21
+  },
+  {
+    "id_viaje": "ECO-1018",
+    "fecha_inicio": "2026-10-02 09:15:00",
+    "fecha_fin": "2026-10-02 09:30:00",
+    "estacion_origen": "073 - Obelisco",
+    "estacion_destino": "045 - Tribunales",
+    "duracion_min": 15
+  },
+  {
+    "id_viaje": "ECO-1019",
+    "fecha_inicio": "2026-10-02 10:05:00",
+    "fecha_fin": "2026-10-02 10:28:00",
+    "estacion_origen": "052 - Parque Patricios",
+    "estacion_destino": "061 - Constitución",
+    "duracion_min": 23
+  },
+  {
+    "id_viaje": "ECO-1020",
+    "fecha_inicio": "2026-10-02 11:20:00",
+    "fecha_fin": "2026-10-02 11:42:00",
+    "estacion_origen": "030 - Aduana",
+    "estacion_destino": "001 - Retiro",
+    "duracion_min": 22
+  },
+  {
+    "id_viaje": "ECO-1021",
+    "fecha_inicio": "2026-10-02 12:30:00",
+    "fecha_fin": "2026-10-02 12:49:00",
+    "estacion_origen": "045 - Tribunales",
+    "estacion_destino": "008 - Congreso",
+    "duracion_min": 19
+  },
+  {
+    "id_viaje": "ECO-1022",
+    "fecha_inicio": "2026-10-02 14:10:00",
+    "fecha_fin": "2026-10-02 14:31:00",
+    "estacion_origen": "022 - Facultad de Medicina",
+    "estacion_destino": "073 - Obelisco",
+    "duracion_min": 21
+  },
+  {
+    "id_viaje": "ECO-1023",
+    "fecha_inicio": "2026-10-02 16:00:00",
+    "fecha_fin": "2026-10-02 16:24:00",
+    "estacion_origen": "008 - Congreso",
+    "estacion_destino": "052 - Parque Patricios",
+    "duracion_min": 24
+  },
+  {
+    "id_viaje": "ECO-1024",
+    "fecha_inicio": "2026-10-02 17:20:00",
+    "fecha_fin": "2026-10-02 17:39:00",
+    "estacion_origen": "073 - Obelisco",
+    "estacion_destino": "001 - Retiro",
+    "duracion_min": 19
+  },
+  {
+    "id_viaje": "ECO-1025",
+    "fecha_inicio": "2026-10-02 18:05:00",
+    "fecha_fin": "2026-10-02 18:27:00",
+    "estacion_origen": "030 - Aduana",
+    "estacion_destino": "061 - Constitución",
+    "duracion_min": 22
+  },
+  {
+    "id_viaje": "ECO-1026",
+    "fecha_inicio": "2026-10-02 18:50:00",
+    "fecha_fin": "2026-10-02 19:10:00",
+    "estacion_origen": "022 - Facultad de Medicina",
+    "estacion_destino": "005 - Plaza Italia",
+    "duracion_min": 20
+  },
+  {
+    "id_viaje": "ECO-1027",
+    "fecha_inicio": "2026-10-02 19:30:00",
+    "fecha_fin": "2026-10-02 19:48:00",
+    "estacion_origen": "005 - Plaza Italia",
+    "estacion_destino": "014 - Pacífico",
+    "duracion_min": 18
+  },
+  {
+    "id_viaje": "ECO-1028",
+    "fecha_inicio": "2026-10-03 08:00:00",
+    "fecha_fin": "2026-10-03 08:18:00",
+    "estacion_origen": "001 - Retiro",
+    "estacion_destino": "045 - Tribunales",
+    "duracion_min": 18
+  },
+  {
+    "id_viaje": "ECO-1029",
+    "fecha_inicio": "2026-10-03 08:30:00",
+    "fecha_fin": "2026-10-03 08:50:00",
+    "estacion_origen": "001 - Retiro",
+    "estacion_destino": "073 - Obelisco",
+    "duracion_min": 20
+  },
+  {
+    "id_viaje": "ECO-1030",
+    "fecha_inicio": "2026-10-03 09:10:00",
+    "fecha_fin": "2026-10-03 09:32:00",
+    "estacion_origen": "061 - Constitución",
+    "estacion_destino": "052 - Parque Patricios",
+    "duracion_min": 22
+  },
+  {
+    "id_viaje": "ECO-1031",
+    "fecha_inicio": "2026-10-03 10:00:00",
+    "fecha_fin": "2026-10-03 10:25:00",
+    "estacion_origen": "005 - Plaza Italia",
+    "estacion_destino": "014 - Pacífico",
+    "duracion_min": 25
+  },
+  {
+    "id_viaje": "ECO-1032",
+    "fecha_inicio": "2026-10-03 10:40:00",
+    "fecha_fin": "2026-10-03 11:02:00",
+    "estacion_origen": "014 - Pacífico",
+    "estacion_destino": "005 - Plaza Italia",
+    "duracion_min": 22
+  },
+  {
+    "id_viaje": "ECO-1033",
+    "fecha_inicio": "2026-10-03 11:15:00",
+    "fecha_fin": "2026-10-03 11:35:00",
+    "estacion_origen": "045 - Tribunales",
+    "estacion_destino": "022 - Facultad de Medicina",
+    "duracion_min": 20
+  },
+  {
+    "id_viaje": "ECO-1034",
+    "fecha_inicio": "2026-10-03 12:00:00",
+    "fecha_fin": "2026-10-03 12:19:00",
+    "estacion_origen": "073 - Obelisco",
+    "estacion_destino": "030 - Aduana",
+    "duracion_min": 19
+  },
+  {
+    "id_viaje": "ECO-1035",
+    "fecha_inicio": "2026-10-03 13:20:00",
+    "fecha_fin": "2026-10-03 13:44:00",
+    "estacion_origen": "052 - Parque Patricios",
+    "estacion_destino": "008 - Congreso",
+    "duracion_min": 24
+  },
+  {
+    "id_viaje": "ECO-1036",
+    "fecha_inicio": "2026-10-03 15:10:00",
+    "fecha_fin": "2026-10-03 15:29:00",
+    "estacion_origen": "022 - Facultad de Medicina",
+    "estacion_destino": "045 - Tribunales",
+    "duracion_min": 19
+  },
+  {
+    "id_viaje": "ECO-1037",
+    "fecha_inicio": "2026-10-03 16:30:00",
+    "fecha_fin": "2026-10-03 16:51:00",
+    "estacion_origen": "030 - Aduana",
+    "estacion_destino": "001 - Retiro",
+    "duracion_min": 21
+  },
+  {
+    "id_viaje": "ECO-1038",
+    "fecha_inicio": "2026-10-03 17:15:00",
+    "fecha_fin": "2026-10-03 17:36:00",
+    "estacion_origen": "008 - Congreso",
+    "estacion_destino": "073 - Obelisco",
+    "duracion_min": 21
+  },
+  {
+    "id_viaje": "ECO-1039",
+    "fecha_inicio": "2026-10-03 18:00:00",
+    "fecha_fin": "2026-10-03 18:22:00",
+    "estacion_origen": "073 - Obelisco",
+    "estacion_destino": "001 - Retiro",
+    "duracion_min": 22
+  },
+  {
+    "id_viaje": "ECO-1040",
+    "fecha_inicio": "2026-10-03 18:45:00",
+    "fecha_fin": "2026-10-03 19:08:00",
+    "estacion_origen": "045 - Tribunales",
+    "estacion_destino": "061 - Constitución",
+    "duracion_min": 23
+  },
+  {
+    "id_viaje": "ECO-1041",
+    "fecha_inicio": "2026-10-03 19:20:00",
+    "fecha_fin": "2026-10-03 19:39:00",
+    "estacion_origen": "005 - Plaza Italia",
+    "estacion_destino": "022 - Facultad de Medicina",
+    "duracion_min": 19
+  },
+  {
+    "id_viaje": "ECO-1042",
+    "fecha_inicio": "2026-10-04 09:00:00",
+    "fecha_fin": "2026-10-04 09:24:00",
+    "estacion_origen": "005 - Plaza Italia",
+    "estacion_destino": "014 - Pacífico",
+    "duracion_min": 24
+  },
+  {
+    "id_viaje": "ECO-1043",
+    "fecha_inicio": "2026-10-04 10:15:00",
+    "fecha_fin": "2026-10-04 10:38:00",
+    "estacion_origen": "014 - Pacífico",
+    "estacion_destino": "001 - Retiro",
+    "duracion_min": 23
+  },
+  {
+    "id_viaje": "ECO-1044",
+    "fecha_inicio": "2026-10-04 11:05:00",
+    "fecha_fin": "2026-10-04 11:27:00",
+    "estacion_origen": "001 - Retiro",
+    "estacion_destino": "030 - Aduana",
+    "duracion_min": 22
+  },
+  {
+    "id_viaje": "ECO-1045",
+    "fecha_inicio": "2026-10-04 12:30:00",
+    "fecha_fin": "2026-10-04 12:50:00",
+    "estacion_origen": "030 - Aduana",
+    "estacion_destino": "052 - Parque Patricios",
+    "duracion_min": 20
+  },
+  {
+    "id_viaje": "ECO-1046",
+    "fecha_inicio": "2026-10-04 14:00:00",
+    "fecha_fin": "2026-10-04 14:21:00",
+    "estacion_origen": "052 - Parque Patricios",
+    "estacion_destino": "061 - Constitución",
+    "duracion_min": 21
+  },
+  {
+    "id_viaje": "ECO-1047",
+    "fecha_inicio": "2026-10-04 16:10:00",
+    "fecha_fin": "2026-10-04 16:32:00",
+    "estacion_origen": "061 - Constitución",
+    "estacion_destino": "008 - Congreso",
+    "duracion_min": 22
+  },
+  {
+    "id_viaje": "ECO-1048",
+    "fecha_inicio": "2026-10-04 17:45:00",
+    "fecha_fin": "2026-10-04 18:04:00",
+    "estacion_origen": "008 - Congreso",
+    "estacion_destino": "045 - Tribunales",
+    "duracion_min": 19
+  },
+  {
+    "id_viaje": "ECO-1049",
+    "fecha_inicio": "2026-10-05 07:30:00",
+    "fecha_fin": "2026-10-05 07:49:00",
+    "estacion_origen": "001 - Retiro",
+    "estacion_destino": "073 - Obelisco",
+    "duracion_min": 19
+  },
+  {
+    "id_viaje": "ECO-1050",
+    "fecha_inicio": "2026-10-05 08:15:00",
+    "fecha_fin": "2026-10-05 08:36:00",
+    "estacion_origen": "073 - Obelisco",
+    "estacion_destino": "022 - Facultad de Medicina",
+    "duracion_min": 21
+  },
+  {
+    "id_viaje": "ECO-1051",
+    "fecha_inicio": "2026-10-05 09:05:00",
+    "fecha_fin": "2026-10-05 09:25:00",
+    "estacion_origen": "022 - Facultad de Medicina",
+    "estacion_destino": "005 - Plaza Italia",
+    "duracion_min": 20
+  },
+  {
+    "id_viaje": "ECO-1052",
+    "fecha_inicio": "2026-10-05 12:00:00",
+    "fecha_fin": "2026-10-05 12:18:00",
+    "estacion_origen": "005 - Plaza Italia",
+    "estacion_destino": "014 - Pacífico",
+    "duracion_min": 18
+  },
+  {
+    "id_viaje": "ECO-1053",
+    "fecha_inicio": "2026-10-05 15:30:00",
+    "fecha_fin": "2026-10-05 15:52:00",
+    "estacion_origen": "014 - Pacífico",
+    "estacion_destino": "045 - Tribunales",
+    "duracion_min": 22
+  },
+  {
+    "id_viaje": "ECO-1054",
+    "fecha_inicio": "2026-10-05 17:40:00",
+    "fecha_fin": "2026-10-05 18:01:00",
+    "estacion_origen": "045 - Tribunales",
+    "estacion_destino": "001 - Retiro",
+    "duracion_min": 21
+  },
+  {
+    "id_viaje": "ECO-1055",
+    "fecha_inicio": "2026-10-05 19:00:00",
+    "fecha_fin": "2026-10-05 19:20:00",
+    "estacion_origen": "030 - Aduana",
+    "estacion_destino": "061 - Constitución",
+    "duracion_min": 20
+  },
+  {
+    "id_viaje": "ECO-1001",
+    "fecha_inicio": "2026-10-01 10:00:00",
+    "fecha_fin": "2026-10-01 10:20:00",
+    "estacion_origen": "001 - Retiro",
+    "estacion_destino": "030 - Aduana",
+    "duracion_min": 20
+  },
+  {
+    "id_viaje": "VIAJE-99",
+    "fecha_inicio": "2026-10-01 11:00:00",
+    "fecha_fin": "2026-10-01 11:15:00",
+    "estacion_origen": "001 - Retiro",
+    "estacion_destino": "073 - Obelisco",
+    "duracion_min": 15
+  },
+  {
+    "id_viaje": "ECO-9001",
+    "fecha_inicio": "01/10/2026 11:30:00",
+    "fecha_fin": "2026-10-01 11:50:00",
+    "estacion_origen": "008 - Congreso",
+    "estacion_destino": "073 - Obelisco",
+    "duracion_min": 20
+  },
+  {
+    "id_viaje": "ECO-9002",
+    "fecha_inicio": "2026-09-31 09:00:00",
+    "fecha_fin": "2026-09-31 09:20:00",
+    "estacion_origen": "005 - Plaza Italia",
+    "estacion_destino": "014 - Pacífico",
+    "duracion_min": 20
+  },
+  {
+    "id_viaje": "ECO-9003",
+    "fecha_inicio": "2026-02-29 14:00:00",
+    "fecha_fin": "2026-02-29 14:25:00",
+    "estacion_origen": "030 - Aduana",
+    "estacion_destino": "001 - Retiro",
+    "duracion_min": 25
+  },
+  {
+    "id_viaje": "ECO-9004",
+    "fecha_inicio": "2026-10-02 15:30:00",
+    "fecha_fin": "2026-10-02 15:10:00",
+    "estacion_origen": "073 - Obelisco",
+    "estacion_destino": "001 - Retiro",
+    "duracion_min": -20
+  },
+  {
+    "id_viaje": "ECO-9005",
+    "fecha_inicio": "2026-10-02 16:00:00",
+    "fecha_fin": "2026-10-02 16:18:00",
+    "estacion_origen": "",
+    "estacion_destino": "022 - Facultad de Medicina",
+    "duracion_min": 18
+  },
+  {
+    "id_viaje": "ECO-9006",
+    "fecha_inicio": "2026-10-03 10:15:00",
+    "fecha_fin": "2026-10-03 10:35:00",
+    "estacion_origen": "061 - Constitución",
+    "estacion_destino": "   ",
+    "duracion_min": 20
+  },
+  {
+    "id_viaje": "ECO-9007",
+    "fecha_inicio": "2026-10-03 12:00:00",
+    "fecha_fin": "",
+    "estacion_origen": "045 - Tribunales",
+    "estacion_destino": "073 - Obelisco",
+    "duracion_min": 0
+  },
+  {
+    "id_viaje": "",
+    "fecha_inicio": "2026-10-03 14:00:00",
+    "fecha_fin": "2026-10-03 14:19:00",
+    "estacion_origen": "001 - Retiro",
+    "estacion_destino": "008 - Congreso",
+    "duracion_min": 19
+  }
+]
