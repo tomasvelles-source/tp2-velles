@@ -1,0 +1,11 @@
+estacion,salidas,llegadas,balance_neto,movimientos_totales
+008 - Congreso,3,5,2,8
+061 - Constitución,3,4,1,7
+014 - Pacífico,3,3,0,6
+022 - Facultad de Medicina,5,5,0,10
+045 - Tribunales,4,4,0,8
+052 - Parque Patricios,2,2,0,4
+073 - Obelisco,6,6,0,12
+001 - Retiro,6,5,-1,11
+005 - Plaza Italia,5,4,-1,9
+030 - Aduana,4,3,-1,7
